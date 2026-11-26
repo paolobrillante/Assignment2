@@ -16,5 +16,8 @@ Timeline:
 - once finished read and packInv.c/h move onto making sharedInv.h and main.c and find by 3rd
 - Makefile, design doc, Testing documents made throughout the length of the project
 
+What is this assignment about?
+This code is to help a hypothetical retail chain to help better store their SKU inventory information to help on packability and readability. 
+
 
 Final submission: Dec 6, 22:00
