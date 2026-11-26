@@ -4,7 +4,7 @@ CMPT 201 Assignment 2
 Members: Paolo Brillante and Nihal Grewal
 
 Meetings:
-Every Wednesdays and Saturdays: Discuss what has been completed, what needs to be completed, and discuss any issues that are faced
+Every Wednesdays and Saturdays either online on in-persion: Discuss what has been completed, what needs to be completed, and discuss any issues that are faced
 
 Work Distribution:
 Paolo Brillante: readInv.c/h, README
