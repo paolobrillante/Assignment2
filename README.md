@@ -1,18 +1,18 @@
 # Assignment2
 
 CMPT 201 Assignment 2
-Members: Paolo Brillante, Nihal Grewal
+Members: Paolo Brillante and Nihal Grewal
 
-PLANNED ACTIVITIES AND MEETINGS
-Every Wednesdays and Saturdays: Discuss what needs to be done and finish the code
+Meetings:
+Every Wednesdays and Saturdays: Discuss what has been completed, what needs to be completed, and discuss any issues that are faced
 
-WORK DISTRIBUTION
+Work Distribution:
 Paolo Brillante: readInv.c/h, README
 Nihal Grewal: packInv.c/h, design doc
 Shared work: main.c, sharedInv.h, Makefile, testing
 
-EXPECTED COMPLETION DATES
-- complete read and packInv.c/h by the 30th
+Timeline:
+- complete read and packInv.c/h by the 30th for the project demo
 - once finished read and packInv.c/h move onto making sharedInv.h and main.c and find by 3rd
 - Makefile, design doc, Testing documents made throughout the length of the project
 
